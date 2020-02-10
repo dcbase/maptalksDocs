@@ -71,7 +71,6 @@ maptalks.css、maptalks.min.js必须加载
                 text:properties.name
             },
             properties: {
-                altitude: altitude,
                 id: properties.id,
                 name: properties.name,
                 index: idx,
@@ -133,7 +132,6 @@ maptalks.css、maptalks.min.js必须加载
                 text:properties.name
               },
               properties: {
-                altitude: altitude,
                 id: properties.id,
                 name: properties.name,
                 index: idx,
@@ -180,4 +178,6 @@ maptalks.css、maptalks.min.js必须加载
 
 2D基本地图区域块绘制完成,效果图如下：
 
-![androidImage](./images/demo01.jpg)
+![androidImage](./images/demo01.jpg) 
+
+
