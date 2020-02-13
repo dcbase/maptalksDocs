@@ -7,5 +7,6 @@
 
     - [地图项目初始化](project/init)
     - [3D效果](project/3d)
-    - [标点效果(待续)](project/test)
+    - [点聚合效果](project/markercluster)
+    - [标点提示框](project/tip)
     - [轨迹效果(待续)](project/test)
