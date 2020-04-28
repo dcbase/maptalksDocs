@@ -126,7 +126,7 @@ maptalks提供了简单的信息提示框，也可以自定义提示框样式、
         })
     }
 
-###### 2、绘制标点时将时间加入
+###### 2、绘制标点时将事件加入
 
     let markers = []
     for (let i = 0; i < addressPoints.length; i++) {
