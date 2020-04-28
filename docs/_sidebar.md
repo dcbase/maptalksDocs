@@ -10,3 +10,7 @@
     - [点聚合效果](project/markercluster)
     - [标点提示框](project/tip)
     - [轨迹效果(待续)](project/test)
+
+- 问题
+
+    - [ImageLayer](issue/images)
